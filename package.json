@@ -1,0 +1,23 @@
+{
+  "name": "learn-tailwind-css",
+  "version": "1.0.0",
+  "description": "Just my tailwind css learning documentation",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triardn/learn-tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triardn/learn-tailwind-css/issues"
+  },
+  "homepage": "https://github.com/triardn/learn-tailwind-css#readme",
+  "dependencies": {
+    "tailwindcss": "^1.5.1"
+  }
+}
